@@ -1,0 +1,8 @@
+body {
+            font-family: 'Poppins', sans-serif;
+        }
+
+.role-card:has(input[type="radio"]:checked) {
+    border-color: #FCB800 !important;
+    background-color: #FFFDF0;
+}
